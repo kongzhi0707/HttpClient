@@ -1,0 +1,20 @@
+{
+  "name": "http-client-axios",
+  "version": "1.0.1",
+  "description": "axios对请求的封装和API接口管理",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "tugenhua",
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "axios对请求的封装和API接口管理"
+  ],
+  "repository": "https://github.com/tugenhua0707/HttpClient",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "qs": "^6.9.4"
+  }
+}
